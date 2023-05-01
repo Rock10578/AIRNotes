@@ -9,3 +9,6 @@ Create Initial React App
 Create initial Backend File
 # npm init
 add modules express mongoose
+npm i express mongoose
+add nodemon
+npm i -D nodemon
